@@ -45,7 +45,7 @@ El chatbot responde utilizando los modelos de IA de OpenAI para proporcionar res
 Para empezar, clona este repositorio en tu máquina local:
 
 ```bash
-git clone https://github.com/VanessaLpzAg/BIBAI.git
+git clone https://github.com/IreneAP19/BIBAI.git
 ```
 
 ### 2. Instalar dependencias 📦
@@ -153,7 +153,7 @@ Este proyecto está bajo la Licencia MIT. Para más detalles, consulta el archiv
 
 Este proyecto fue desarrollado por el equipo de The Bridge, y los siguientes colaboradores contribuyeron al mismo. Haz clic en sus nombres para acceder a sus repositorios de GitHub:
 
-[Iñigo Pascual Aguirre](https://github.com/Inigopascuaguir/BIBAI.git), [Vanessa López Aguilera](https://github.com/VanessaLpzAg/BIBAI.git), [Irene Arrabé Prieto](https://github.com/JZubiaga13/Proyecto_BBDD), [Félix De Molina]() y [Nacho Miguelsanz Praena](). 
+[Iñigo Pascual Aguirre](https://github.com/Inigopascuaguir/BIBAI.git), [Vanessa López Aguilera](https://github.com/VanessaLpzAg/BIBAI.git), [Irene Arrabé Prieto](https://github.com/IreneAP19/BIBAI.git), [Félix De Molina]() y [Nacho Miguelsanz Praena](). 
 
 
 ¡Gracias por usar BIBAI! 😄
